@@ -24,3 +24,7 @@ pip install git+https://github.com/openai/CLIP.git
 
 5.run calculate_SRCC_PLCC.py to check the model's performance in different dataset
 
+# Tips
+ Merged_test_outputs.csv saved the rating, CSCA's prediction, eloboration and content label of each sample in the test set of the Primary dataset in AuDrA.
+
+
