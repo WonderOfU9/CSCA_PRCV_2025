@@ -1,5 +1,5 @@
 # CSCA_PRCV_2025
-# Requirement
+## Requirement
 
 conda env create -f audra_train_environment.yml
 
@@ -13,7 +13,7 @@ pip install ftfy regex tqdm
 
 pip install git+https://github.com/openai/CLIP.git
 
-# Run
+## Run
 
 1.get the AuDrA Drawings from: https://osf.io/h4adm/, add each of the folders to the directory with train_CSCA.py (e.g., primary_images folder)
 
