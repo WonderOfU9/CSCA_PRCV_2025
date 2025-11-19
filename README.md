@@ -23,9 +23,4 @@ pip install git+https://github.com/openai/CLIP.git
 
 5.run calculate_SRCC_PLCC.py to check the model's performance in different dataset
 
-## Changelog
-### v1.1 (2025-11)
-- Expanded related work discussion acknowledging Nath et al. (2025), *Pencils to Pixels: A Systematic Study of Creative Drawings*.
-- Clarified how our model builds upon the prior content–style framework.
-- PRCV 2025 version remains unchanged as it was finalized before these revisions.
-- ArXiv version is now the authoritative reference：https://arxiv.org/abs/2511.12880
+**Update (v1.1, 2025-11):** We updated the version accepted by PRCV2025, expanding related work (acknowledging Nath et al., 2025, *Pencils to Pixels: A Systematic Study of Creative Drawings*) and clarifying how our model builds upon the content–style framework. The arXiv version is now the authoritative reference (arxiv.org/abs/2511.12880).
